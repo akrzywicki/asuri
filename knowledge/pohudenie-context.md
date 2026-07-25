@@ -17,6 +17,8 @@
 - Силовая: `pohudenie/exercises.md`.
 - Мышление: `pohudenie/mindset.md`.
 - Механика обжорства: `pohudenie/egregore-gluttony.md` и `knowledge/mechanics-food.md`.
+- Выход из вредных эгрегоров (сводка корпуса): `knowledge/exit-harmful-egregores.md`.
+- Практика увольнения у хозяина переедания: `pohudenie/exit-overeating.md`.
 
 ## Договорённости по процессу
 
